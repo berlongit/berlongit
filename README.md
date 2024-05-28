@@ -12,6 +12,7 @@
  
  
 - <b>C# (.NET Desktop Applications)</b>
+ - [Software Designing](https://github.com/berlongit/.Net-Programming/tree/main)
   
 
   
