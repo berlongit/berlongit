@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jeffrey! </h1>
 
-<h2>👨‍💻 Systems Administration | Networking | Data Analysis Projects:</h2>
+<h2>👨‍💻 Systems Administration | Networking Engineer | Data Analysis Projects:</h2>
 
 - <b>Data Analysis Practice </b>
   - [Tableau | Excel Projects](https://github.com/berlongit/Data-Analysis/tree/main)
