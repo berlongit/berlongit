@@ -3,7 +3,7 @@
 <h2>👨‍💻 Systems Administration | Networking | Data Analysis Projects:</h2>
 
 - <b>Data Analysis Practice </b>
- 
+  - [Tableau](https://github.com/berlongit/Data-Analysis/tree/main)
 
   
 - <b>Linux</b>
@@ -12,13 +12,14 @@
  
  
 - <b>C# (.NET Desktop Applications)</b>
- - [Software Designing](https://github.com/berlongit/.Net-Programming/tree/main)
+  - [Software Designing](https://github.com/berlongit/.Net-Programming/tree/main)
   
 
   
 
 <h2>My Project Website</h2>
-<b>Coming soon</b>
+
+- <b>Coming soon</b>
 
 <h2> 🤳 Connect with me:</h2>
 
