@@ -14,7 +14,7 @@
 - <b>C# (.NET Desktop Applications)</b>
   - [Software Application Projects](https://github.com/berlongit/.Net-Programming/tree/main)
   
-
+- <b>MySQL Projects</b>
   
 
 <h2>My Project Website</h2>
