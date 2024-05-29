@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Systems Administration | Networking Engineer | Data Analysis Projects:</h2>
 
+-  <b>Windows Networking</b>
+  - [Active Directory Home Lab](https://github.com/berlongit/Windows-Networking/blob/main/README.md)
 - <b>Data Analysis Practice </b>
   - [Tableau | Excel Projects](https://github.com/berlongit/Data-Analysis/tree/main)
 - <b>SQL Projects</b>
