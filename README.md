@@ -4,9 +4,9 @@
 
 - <b>Data Analysis Practice </b>
   - [Tableau | Excel Projects](https://github.com/berlongit/Data-Analysis/tree/main)
-- <b>MySQL Projects</b>
-  -  [BaseTable Creation](https://github.com/berlongit/MySQL) 
-
+- <b>SQL Projects</b>
+  -  [MySQL](https://github.com/berlongit/MySQL) 
+  -  [PostgreSQL](https://github.com/berlongit/PostgreSQL)
 - <b>Linux</b>
  
   
