@@ -3,7 +3,7 @@
 <h2>👨‍💻 Systems Administration | Networking | Data Analysis Projects:</h2>
 
 - <b>Data Analysis Practice </b>
-  - [Tableau](https://github.com/berlongit/Data-Analysis/tree/main)
+  - [Tableau | Excel Projects](https://github.com/berlongit/Data-Analysis/tree/main)
 
   
 - <b>Linux</b>
