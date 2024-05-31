@@ -11,13 +11,10 @@
   -  [PostgreSQL](https://github.com/berlongit/PostgreSQL)
 - <b>Linux</b>
  
-  
- 
- 
 - <b>C# (.NET Desktop Applications)</b>
   - [Software Application Projects](https://github.com/berlongit/.Net-Programming/tree/main)
   
-
+<h2>Certifications</h2>
 
 <h2>My Project Website</h2>
 
