@@ -4,15 +4,17 @@
 
 -  <b>Windows Networking</b>
     - [Active Directory Home Lab](https://github.com/berlongit/Windows-Networking/blob/main/README.md)
+
+- <b>Linux</b>
+  - [Ansible Project](https://github.com/berlongit/ansible_project)
+
 - <b>Data Analysis Practice </b>
   - [Tableau | Excel Projects](https://github.com/berlongit/Data-Analysis/tree/main)
+
 - <b>SQL Projects</b>
   -  [MySQL](https://github.com/berlongit/MySQL) 
   -  [PostgreSQL](https://github.com/berlongit/PostgreSQL)
-- <b>Linux</b>
 
-  - [Ansible Project](https://github.com/berlongit/ansible_project)
- 
 - <b>C# (.NET Desktop Applications)</b>
   - [Software Application Projects](https://github.com/berlongit/.Net-Programming/tree/main)
   
