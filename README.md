@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jeffrey! </h1>
 
-<h2>👨‍💻 Systems Administrator | Systems Engineer | Network Infrastructure </h2>
+<h2>👨‍💻 Systems Administrator | SOC Analyst | Network Infrastructure </h2>
 
 -  <b>Windows Networking</b>
     - [Active Directory Home Lab](https://github.com/berlongit/Windows-Networking/blob/main/README.md)
